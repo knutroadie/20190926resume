@@ -1,9 +1,7 @@
 body {
 	height: 100%;
-	margin: 25px;
 	text-align: center;
-	width: 90%;
-    font-size: 32px; font-family: Helvetica, 'Helvetica', sans-serif;
+    font-size: 28px; font-family: Helvetica, 'Helvetica', sans-serif;
     color: #141414;
     background-color: #EBEBEB;
 }
@@ -12,11 +10,14 @@ h5 {
   font-size: 20px;
   text-align: justify;
   text-justify: inter-word;
-  font-weight: 400
+  font-weight: normal 
 }
 
 h6 {
   font-size: 18px;
   text-align: center
-  font-weight: normal
+}
+div {
+  margin: auto;
+  width: 66%;
 }
