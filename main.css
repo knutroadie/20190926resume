@@ -9,8 +9,8 @@ body {
 h5 {
   font-size: 20px;
   text-align: justify;
-  text-justify: auto;
-  font-weight: normal 
+  text-justify: inter-character;
+  font-weight: normal
 }
 
 h6 {
