@@ -9,7 +9,7 @@ body {
 h5 {
   font-size: 20px;
   text-align: justify;
-  text-justify: inter-character;
+  text-justify: auto;
   font-weight: normal 
 }
 
